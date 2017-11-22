@@ -1,0 +1,7 @@
+---
+layout:
+  staging:
+    iam:
+      _plugin_: AWS_IAM
+      aws_profile: staging
+      aws_region: us-west-2
